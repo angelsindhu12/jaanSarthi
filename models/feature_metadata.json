@@ -1,0 +1,32 @@
+{
+  "input_dim": 16,
+  "qualification_map": {
+    "None": 0,
+    "8th": 1,
+    "10th": 2,
+    "12th": 3,
+    "Diploma": 4,
+    "Graduate": 5,
+    "Post Graduate": 6
+  },
+  "gender_map": {
+    "All": 0,
+    "Male": 1,
+    "Female": 2
+  },
+  "category_map": {
+    "General": 0,
+    "OBC": 1,
+    "SC": 2,
+    "ST": 3,
+    "EWS": 4
+  },
+  "occupation_map": {
+    "Any": 0,
+    "Farmer": 1,
+    "Student": 2,
+    "Artisan": 3,
+    "Unemployed": 4,
+    "Self-employed": 5
+  }
+}
